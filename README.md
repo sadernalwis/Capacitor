@@ -31,7 +31,7 @@ ready in 224ms.
 ```javascript
 //INPUT
 cd ../
-git add *
+git add --all
 git commit -am "[Commit Message Header]: [Message]"
 git push
 ```
