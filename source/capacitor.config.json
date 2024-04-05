@@ -1,0 +1,11 @@
+{
+  "appId": "site.detrash.app",
+  "appName": "Template",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
